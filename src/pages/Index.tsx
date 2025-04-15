@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Toaster } from "sonner";
 import EmailForm from '../components/EmailForm';
@@ -71,7 +70,7 @@ const Index = () => {
           AI-Powered Content
         </h1>
         <p className="text-xl text-gray-300 mb-10 max-w-2xl">
-          Generate thousands of unique video variants, deploy across hundreds of accounts, and dominate every algorithm with one revolutionary tool.
+          Generate thousands of unique video variants, 1-click to create 100s of sub accounts and post, and dominate every algorithm with one revolutionary tool.
         </p>
         
         <div className="mb-16">
